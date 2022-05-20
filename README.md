@@ -1,7 +1,11 @@
-Olá meu nome é Karen, tenho 17 anos.
-Possuo interesse em aprender a programar em Javascript;
+Olá meu nome é Karen e tenho 17 anos.
+
+Possuo o interesse em aprender algumas linguas de programação, principalmente em Javascript;
+
 Atualmente faço curso de Informática para Internet no IFRJ - Campus Eng. Paulo de Frontin;
-E procuro melhorar nas área de TI;
+
+E procuro melhorar e aprender mais sobre as área de TI;
+
 Me contate no email karencarvalho0212@gmail.com.
 
 <!---
